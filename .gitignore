@@ -1,0 +1,6 @@
+.idea
+idea/*
+env
+Auth/migrations/*
+!Auth/migrations/__init__.py
+*.sqlite3
